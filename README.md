@@ -62,3 +62,34 @@ Three models were evaluated:
 ---
 
 ## Project Structure
+
+water-quality-project/
+
+│
+
+├── data/
+
+│ └── NWMP_August2025_MPCB_0.csv
+
+│
+
+├── notebooks/
+
+│ ├── 01_EDA.ipynb
+
+│ └── 02_Modeling.ipynb
+
+│
+
+├── models/
+
+│ ├── logistic_regression.pkl
+
+
+│ ├── extratrees.pkl
+
+│ └── random_forest.pkl
+
+│
+
+└── README.md
